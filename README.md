@@ -1,4 +1,4 @@
-# ragalag.github.io
+# Ragalag.github.io
 Personal Webpage
 <!DOCTYPE html>
 <html>
