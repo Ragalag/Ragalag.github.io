@@ -7,12 +7,23 @@
 
 <body>
 
-<div class ="mains one">
+<div class ="mainOne">
 <p class ="text">
 
 Black and blue and grey and white - you've just entered my website! 
 
 </p>
+</div>
+<div = "mainsTwo">
+
+</div>
+
+<div = "mainsOne">
+
+</div>
+
+<div = "mainsTwo">
+
 </div>
 
 </body>
