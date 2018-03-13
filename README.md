@@ -18,15 +18,21 @@ Section One
 </section>
 
 <section>
-
+<p class ="text">
+Section Two
+</p>
 </section>
 
 <section>
-
+<p class ="text">
+Section Three
+</p>
 </section>
 
 <section>
-
+<p class ="text">
+Section Four
+</p>
 </section>
 
 </body>
