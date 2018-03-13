@@ -4,6 +4,8 @@ Personal Webpage
 <html>
 
 <head>
+ <meta charset="utf-8">
+ <meta name="author" content="Ragalag">
 <link rel="stylesheet" href="style.css" type="text/css" />
 </head>
 
