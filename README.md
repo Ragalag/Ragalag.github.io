@@ -12,8 +12,6 @@ Personal Webpage
 <div class ="mainOne">
 <p class ="text">
 
-Black and blue and grey and white - you've just entered my website! 
-
 </p>
 </div>
 <div = "mainsTwo">
