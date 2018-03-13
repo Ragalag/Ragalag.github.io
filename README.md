@@ -13,7 +13,7 @@ Personal Webpage
 
 <section>
 <p class ="text">
-
+Section One
 </p>
 </section>
 
