@@ -11,22 +11,23 @@ Personal Webpage
 
 <body>
 
-<div class ="mainOne">
+<section>
 <p class ="text">
 
 </p>
-</div>
-<div = "mainsTwo">
+</section>
 
-</div>
+<section>
 
-<div = "mainsOne">
+</section>
 
-</div>
+<section>
 
-<div = "mainsTwo">
+</section>
 
-</div>
+<section>
+
+</section>
 
 </body>
 
