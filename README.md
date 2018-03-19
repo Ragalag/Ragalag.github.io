@@ -5,40 +5,45 @@ Personal Webpage
 
 <head>
  <meta charset="utf-8">
- <meta name="author" content="Ragalag">
-<link rel="stylesheet" href="style.css" type="text/css" />
+ <meta name="author" content="Aifric O'Raghallaigh">
+<link rel="stylesheet" href="ragalag.css" type="text/css" />
 </head>
 
 <body>
 
-<section>
+<section class = "white">
 <p class ="text">
-Section One
+<b>Start</b></br>
+
+
+
 </p>
 </section>
 
-<section>
+<section class = "black">
 <p class ="text">
-Section Two
+
+<b>Projects</b> </br>
+
 </p>
 </section>
 
-<section>
+<section class = "white">
 <p class ="text">
-Section Three
+<b>Coding</b></br>
+
+
+
+
 </p>
 </section>
 
-<section>
+<section class = "black">
 <p class ="text">
 Section Four
 </p>
 </section>
-<section>
-<p class ="text">
-Section Five
-</p>
-</section>
+
 </body>
 
 </html>
