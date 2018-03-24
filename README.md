@@ -5,18 +5,18 @@ Personal Webpage
 
 <head>
  <meta charset="utf-8">
- <meta name="author" content="Aifric O'Raghallaigh">
+ <meta name="author" content="Aifric">
 <link rel="stylesheet" href="ragalag.css" type="text/css" />
+
 </head>
 
 <body>
 
 <section class = "white">
 <p class ="text">
-<b>Start</b></br>
+<b>Aifric</b></br>
 
-
-
+Black and blue and grey and white - you've just entered my website! </br>
 </p>
 </section>
 
@@ -31,7 +31,6 @@ Personal Webpage
 <section class = "white">
 <p class ="text">
 <b>Coding</b></br>
-
 
 
 
