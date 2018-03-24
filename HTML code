@@ -2,29 +2,44 @@
 <html>
 
 <head>
-<link rel="stylesheet" href="style.css" type="text/css" />
+ <meta charset="utf-8">
+ <meta name="author" content="Aifric">
+<link rel="stylesheet" href="ragalag.css" type="text/css" />
+
 </head>
 
 <body>
 
-<div class ="mainOne">
+<section class = "white">
+<p class ="text">
+<b>Aifric</b></br>
+
+Black and blue and grey and white - you've just entered my website! </br>
+</p>
+</section>
+
+<section class = "black">
 <p class ="text">
 
-Black and blue and grey and white - you've just entered my website! 
+<b>Projects</b> </br>
 
 </p>
-</div>
-<div = "mainsTwo">
+</section>
 
-</div>
+<section class = "white">
+<p class ="text">
+<b>Coding</b></br>
 
-<div = "mainsOne">
 
-</div>
 
-<div = "mainsTwo">
+</p>
+</section>
 
-</div>
+<section class = "black">
+<p class ="text">
+Section Four
+</p>
+</section>
 
 </body>
 
