@@ -14,7 +14,6 @@
 <p class ="text">
 <b>Aifric</b></br>
 
-Black and blue and grey and white - you've just entered my website! </br>
 </p>
 </section>
 
