@@ -4,11 +4,11 @@ div{
     padding: 10px 0px 10px 0px;
 }
 .black {
-    background-color: #0000;
-   color:  #FFFF;
+    background-color: #000;
+   color:  #FFF;
 }
 .white {
-    background-color :  #FFFF;
-    color:  #0000;
+    background-color :  #FFF;
+    color:  #000;
 }
 
